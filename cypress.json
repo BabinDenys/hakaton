@@ -1,0 +1,14 @@
+{
+  "env": {
+    "host": "localhost:9525",
+    "urlCreateCategory": "localhost:9525/categories/createCategory",
+    "urlListCategory": "localhost:9525/categories/categories",
+    "urlListProduct": "localhost:9525/operator/list",
+    "urlCreateProduct": "localhost:9525/operator/createProduct",
+    "urlProfile": "localhost:9525/settings/profile",
+    "login": "test_operator_1",
+    "email": "operator1@test.ru",
+    "password": "testoperator1",
+    "token" : "{\"access\": \"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNTkzMDgzNjU0LCJqdGkiOiIwZmM4YjA2MGQxMTc0NGEyYjVjMmI3MTZhODJmNTI2NiIsInVzZXJfaWQiOjJ9.aiYePAWC2Yf9ksue3u6BNbaq5AXIIrK4VMEBP22Pd_E\"}"
+  }
+}
